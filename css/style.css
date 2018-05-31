@@ -1,0 +1,32 @@
+.container{    background: green;
+    height: 700px;
+    width: 1000px;
+    margin: 0 auto;}
+.menu{    background: linear-gradient(to right, red , yellow);
+    height: 10%;
+    width: 82%;
+    float: right;}
+.list{    background: linear-gradient( #ffd400 , #30a675cf,blue);
+    height: 87%;
+    width: 18%;
+    float: left;}
+.body{    background: #a98d8d;
+    height: 77%;
+    width: 82%;
+    float: right;}
+.body_part_1{    background: linear-gradient(#21f3d6,#9141c3);
+    height: 55%;
+    width: 50%;
+    float: left;}
+.body_part_2{    background: linear-gradient(#9E9E9E,#E91E63);
+    height: 55%;
+    width: 50%;
+    float: left;}
+.body_part_3{    background: linear-gradient(black,#cfa7b5);
+    width: 100%;
+    height: 45%;
+    float: left;}
+.fooetr{    background: linear-gradient(#c34177,#41c37b);
+    height: 13%;
+    width: 100%;
+    float: left;}
